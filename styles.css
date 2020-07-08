@@ -62,3 +62,12 @@ color: #DBEDF3;
 font-family: sans-serif;
 margin: 50px 0 20px;
 }
+
+
+/*Media Query Section*/
+@media(max-width: 449px)
+{
+.heading{
+font-size: 2rem;
+}
+}
